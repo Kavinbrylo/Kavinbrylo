@@ -13,4 +13,4 @@ Software Engineer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/><img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 ### Framework I Use 
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="django"/>    <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>   
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/django.png" alt="django"/>   <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
